@@ -1,4 +1,4 @@
-package clase.datos;
+package entities;
 
 import javax.xml.bind.annotation.XmlAttribute;
 

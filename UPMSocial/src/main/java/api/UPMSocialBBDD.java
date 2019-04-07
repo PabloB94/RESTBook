@@ -1,8 +1,6 @@
-package clase.recursos.bbdd;
+package api;
 
-import clase.datos.*;
-import clase.datos.Amigo;
-import clase.datos.Estado;
+import entities.*;
 import org.apache.naming.NamingContext;
 
 import javax.naming.InitialContext;

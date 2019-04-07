@@ -1,4 +1,4 @@
-package clase.datos;
+package entities;
 
 import java.util.ArrayList;
 
